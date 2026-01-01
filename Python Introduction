@@ -13,7 +13,6 @@ This repository is intended for **learning, revision, and long-term reference**.
 - Applications of Python
 - Why Python Is Best for Students
 - Quick Revision Summary
-
 ---
 
 ## 📘 Introduction
@@ -34,7 +33,6 @@ Python is widely used in:
 - Automation
 - Internet of Things (IoT)
 - Cybersecurity
-
 ---
 
 ## ⭐ Importance of Python
@@ -48,7 +46,6 @@ Python is important in modern computing because:
 - It has strong industry demand
 
 Python has evolved into a **core technology** used by startups, enterprises, and research organizations worldwide.
-
 ---
 
 ## ⚙️ Core Features of Python
@@ -69,7 +66,7 @@ Python is an **interpreted language**, which means:
 
 - Code is executed **line by line**
 - No separate compilation step is required
-- Errors are detected immediately during execution
+- Errors are detected immediately during execution.
 
 **Advantages:**
 - Easy debugging
