@@ -1,0 +1,5 @@
+How to print the msg in python:
+print("Hi Valmik")
+print(45)
+print("India","Nepal","Bhutan")
+print("India",5,True)
