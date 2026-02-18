@@ -4,4 +4,3 @@ The daily learning Notes will be pasetd here.
 The daily learning includes the basics things regarding the language.
 
 
-
